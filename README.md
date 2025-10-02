@@ -65,47 +65,14 @@ Deep neural networks for **gender classification from gait cycles**, combining R
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoBanzhaf&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBanzhaf&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RATFIVE&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RATFIVE&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌍 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📫 marco.banzhaf@email.com  
-- 📸 [Instagram](https://www.instagram.com/yourphoto)  
-
----
-
-⭐️ *Always open for collaboration on AI, data science, and visualization projects!*  
-
----
-
-## 📌 Featured Projects
-🔹 [**Storm Surge Forecasting**](https://github.com/yourrepo)  
-ConvLSTM + MLForecast models for **short-term water level forecasting** in the Flensburg Fjord. Includes HPC training pipelines, Optuna hyperparameter tuning, and spatio-temporal cross-validation.  
-
-🔹 [**Smart Marinas Dashboard**](https://github.com/yourrepo)  
-React/Leaflet web-app displaying **real-time ocean and weather data** from Copernicus Marine Service & FROST-API. Deployed with Netlify/AWS.  
-
-🔹 [**Gait Analysis with Deep Learning**](https://github.com/yourrepo)  
-Deep neural networks for **gender classification from gait cycles**, combining RNNs, CNNs, and fully connected architectures.  
-
-🔹 [**Photography Portfolio**](https://your-website)  
-Personal side project as a freelance photographer – combining creative work with data-driven storytelling.  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoBanzhaf&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBanzhaf&layout=compact&theme=tokyonight)  
-
----
-
-## 🌍 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📫 marco.banzhaf@email.com  
-- 📸 [Instagram](https://www.instagram.com/yourphoto)  
+- 💼 [LinkedIn](www.linkedin.com/in/marco-banzhaf-3433b6197)    
+- 📸 [Instagram](https://www.instagram.com/dadimdadum)  
 
 ---
 
