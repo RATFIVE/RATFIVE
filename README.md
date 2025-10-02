@@ -64,12 +64,6 @@ Deep neural networks for **gender classification from gait cycles**, combining R
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RATFIVE&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RATFIVE&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌍 Connect with me
 - 💼 [LinkedIn](www.linkedin.com/in/marco-banzhaf-3433b6197)    
 - 📸 [Instagram](https://www.instagram.com/dadimdadum)  
