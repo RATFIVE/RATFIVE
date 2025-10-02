@@ -8,17 +8,6 @@ I'm currently working on my **Master's Thesis** in collaboration with **GEOMAR H
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, R, SQL, LaTeX, JavaScript  
-- **Machine Learning**: PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM  
-- **Time Series & Forecasting**: Nixtla MLForecast, StatsForecast, ARIMA/SARIMA, ConvLSTM  
-- **Data Tools**: Pandas, NumPy, Dask, Optuna, TensorBoard  
-- **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit, Dash  
-- **DevOps & HPC**: Git, Docker, SLURM, Linux (HPC Cluster, GPU/CPU Jobs)  
-- **Web Development**: React, Next.js, Tailwind, shadcn/ui
-
-  ---
-
-## 🔧 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,7 +42,7 @@ I'm currently working on my **Master's Thesis** in collaboration with **GEOMAR H
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge&logo=linux&logoColor=white)
 
-**Web Development**  
+**Web Development (vibe coding)**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -62,17 +51,15 @@ I'm currently working on my **Master's Thesis** in collaboration with **GEOMAR H
 ---
 
 ## 📌 Featured Projects
-🔹 [**Storm Surge Forecasting**](https://github.com/yourrepo)  
+🔹 [**Storm Surge Forecasting**](https://github.com/RATFIVE/Masterarbeit_code.git)  
 ConvLSTM + MLForecast models for **short-term water level forecasting** in the Flensburg Fjord. Includes HPC training pipelines, Optuna hyperparameter tuning, and spatio-temporal cross-validation.  
 
-🔹 [**Smart Marinas Dashboard**](https://github.com/yourrepo)  
+🔹 [**Smart Marinas Dashboard**](https://github.com/RATFIVE/SOOP-Marinas-Dashboard.git)  
 React/Leaflet web-app displaying **real-time ocean and weather data** from Copernicus Marine Service & FROST-API. Deployed with Netlify/AWS.  
 
-🔹 [**Gait Analysis with Deep Learning**](https://github.com/yourrepo)  
+🔹 [**Gait Analysis with Deep Learning**](https://github.com/RATFIVE/UniversityProject-GaitGenderClassification.git)  
 Deep neural networks for **gender classification from gait cycles**, combining RNNs, CNNs, and fully connected architectures.  
 
-🔹 [**Photography Portfolio**](https://your-website)  
-Personal side project as a freelance photographer – combining creative work with data-driven storytelling.  
 
 ---
 
