@@ -29,6 +29,7 @@ I'm currently working on my **Master's Thesis** in collaboration with **GEOMAR H
 ![Optuna](https://img.shields.io/badge/Optuna-4B0082?style=for-the-badge&logo=python&logoColor=white)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF8800?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 **Visualization**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=python&logoColor=white)
