@@ -22,6 +22,10 @@ I'm currently working on my **Master's Thesis** in collaboration with **GEOMAR H
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-004D7F?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-7BCB00?style=for-the-badge&logo=lightgbm&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-1C1C1C?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-0A5C85?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-0A5C85?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-0A5C85?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Data & Tools**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
